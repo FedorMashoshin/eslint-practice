@@ -7,3 +7,5 @@
 
 ## 
 This repository contains all of the notes taken by Fedor Mashoshin for the Lighthouse Labs Web Development Bootcamp.
+
+.. written by [Fedor](https://github.com/FedorMashoshin)
